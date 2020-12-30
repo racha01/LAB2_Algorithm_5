@@ -1,0 +1,6 @@
+C:\Users\Rachanon\source\repos\Mydatabase\LAB_2_HW5_Algorithm_2562_2\bin\Debug\LAB_2_HW5_Algorithm_2562_2.exe.config
+C:\Users\Rachanon\source\repos\Mydatabase\LAB_2_HW5_Algorithm_2562_2\bin\Debug\LAB_2_HW5_Algorithm_2562_2.exe
+C:\Users\Rachanon\source\repos\Mydatabase\LAB_2_HW5_Algorithm_2562_2\bin\Debug\LAB_2_HW5_Algorithm_2562_2.pdb
+C:\Users\Rachanon\source\repos\Mydatabase\LAB_2_HW5_Algorithm_2562_2\obj\Debug\LAB_2_HW5_Algorithm_2562_2.csproj.CoreCompileInputs.cache
+C:\Users\Rachanon\source\repos\Mydatabase\LAB_2_HW5_Algorithm_2562_2\obj\Debug\LAB_2_HW5_Algorithm_2562_2.exe
+C:\Users\Rachanon\source\repos\Mydatabase\LAB_2_HW5_Algorithm_2562_2\obj\Debug\LAB_2_HW5_Algorithm_2562_2.pdb
